@@ -1,0 +1,46 @@
+{
+  "name": "mwb-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@apollo/client": "^3.2.4",
+    "@mdi/js": "^5.6.55",
+    "@mdi/react": "^1.4.0",
+    "graphql": "^15.3.0",
+    "lodash": "^4.17.20",
+    "lodash.difference": "^4.5.0",
+    "polished": "^4.0.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-hook-form": "^6.9.2",
+    "react-is": "^16.13.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.3",
+    "react-toastify": "^6.0.9",
+    "semantic-ui-react": "^2.0.0",
+    "styled-components": "^5.2.0",
+    "subscriptions-transport-ws": "^0.9.18"
+  },
+  "scripts": {
+    "dev": "react-scripts start",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
